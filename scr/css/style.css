@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: blue ;
+    background-color: rgb(24, 24, 133) ;
     padding: 15px 30px;
     display: flex;
     justify-content: space-between;
@@ -41,7 +41,7 @@ nav ul li a:hover {
 }
 
 #destaque {
-    background: linear-gradient(90deg, #09203f, #537895);
+    background: linear-gradient(90deg, #3a20ff, #241ea6);
     text-align: center;
     padding: 70px 20px;
 }
